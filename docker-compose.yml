@@ -1,0 +1,50 @@
+version: '3.8'
+volumes:
+  pgdata:
+  static:
+  media:
+  web-root:
+  certbot-etc:
+  certbot-var:
+services:
+  python: &python
+    build:
+      context: .
+      dockerfile: docker/python/Dockerfile
+    volumes:
+      - web-root:/var/www/html
+    ports:
+      - 8000:8000
+    command: uvicorn asgi:web --log-level=info
+
+#  nginx:
+#    build:
+#      context: .
+#      dockerfile: docker/nginx/Dockerfile
+#    volumes:
+#      - certbot-etc:/etc/letsencrypt
+#      - certbot-var:/var/lib/letsencrypt
+#      - web-root:/var/www/html
+#      - ./docker/nginx:/etc/nginx/conf.d
+#    ports:
+#      - 80:80
+#      - 443:443
+
+  redis:
+    image: library/redis:6.0.9-alpine
+    restart: always
+    volumes:
+      - ./docker/redis/etc/redis.conf:/data/redis/redis.conf
+      - ./docker/redis/data/bases:/data/bases
+      - ./docker/redis/data/log:/data/log
+    ports:
+      - 6379:6379
+    command: redis-server /data/redis/redis.conf
+
+  celery_worker:
+    <<: *python
+    command: celery -A Exchange worker --loglevel=info -E -B
+    ports: []
+    restart: always
+    depends_on:
+      - redis
