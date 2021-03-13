@@ -1,19 +1,15 @@
 from celery import Celery
 
+
 app = Celery('Exchange',
              backend='redis://default:redis_pass_@redis:6379/0',
              broker='redis://default:redis_pass_@redis:6379/0',
              include=['tbot.tasks'])
-# app = Celery('Exchange',
-#              backend='redis://localhost:6379/0',
-#              broker='redis://localhost:6379/0',
-#              include=['tbot.tasks'])
 
 app.conf.update(
     task_serializer='json',
     accept_content=['json'],
-    result_serializer='json',
-    enable_utc=True,
+    result_serializer='json'
 )
 
 app.conf.beat_schedule = {

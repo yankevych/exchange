@@ -4,8 +4,6 @@ volumes:
   static:
   media:
   web-root:
-  certbot-etc:
-  certbot-var:
 services:
   python: &python
     build:
@@ -13,22 +11,11 @@ services:
       dockerfile: docker/python/Dockerfile
     volumes:
       - web-root:/var/www/html
+    environment:
+      - TOKEN=***
     ports:
       - 8000:8000
-    command: uvicorn asgi:web --log-level=info
-
-#  nginx:
-#    build:
-#      context: .
-#      dockerfile: docker/nginx/Dockerfile
-#    volumes:
-#      - certbot-etc:/etc/letsencrypt
-#      - certbot-var:/var/lib/letsencrypt
-#      - web-root:/var/www/html
-#      - ./docker/nginx:/etc/nginx/conf.d
-#    ports:
-#      - 80:80
-#      - 443:443
+    command: uvicorn asgi:start_webhook --log-level=info --workers 1
 
   redis:
     image: library/redis:6.0.9-alpine
@@ -43,7 +30,7 @@ services:
 
   celery_worker:
     <<: *python
-    command: celery -A Exchange worker --loglevel=info -E -B
+    command: celery -A tbot worker --loglevel=info -E -B
     ports: []
     restart: always
     depends_on:

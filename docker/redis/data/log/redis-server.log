@@ -77,3 +77,1027 @@
 1:M 05 Feb 2021 07:37:36.559 * DB saved on disk
 1:M 05 Feb 2021 07:37:36.559 * Removing the pid file.
 1:M 05 Feb 2021 07:37:36.559 # Redis is now ready to exit, bye bye...
+1:C 13 Mar 2021 20:26:40.875 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 13 Mar 2021 20:26:40.875 # Redis version=6.0.9, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 13 Mar 2021 20:26:40.875 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 6.0.9 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 1
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+1:M 13 Mar 2021 20:26:40.877 # Server initialized
+1:M 13 Mar 2021 20:26:40.877 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+1:M 13 Mar 2021 20:26:40.879 * DB loaded from append only file: 0.002 seconds
+1:M 13 Mar 2021 20:26:40.879 * Ready to accept connections
+1:signal-handler (1615667216) Received SIGTERM scheduling shutdown...
+1:M 13 Mar 2021 20:26:57.025 # User requested shutdown...
+1:M 13 Mar 2021 20:26:57.025 * Calling fsync() on the AOF file.
+1:M 13 Mar 2021 20:26:57.026 * Saving the final RDB snapshot before exiting.
+1:M 13 Mar 2021 20:26:57.029 * DB saved on disk
+1:M 13 Mar 2021 20:26:57.029 * Removing the pid file.
+1:M 13 Mar 2021 20:26:57.029 # Redis is now ready to exit, bye bye...
+1:C 13 Mar 2021 20:28:17.239 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 13 Mar 2021 20:28:17.239 # Redis version=6.0.9, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 13 Mar 2021 20:28:17.239 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 6.0.9 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 1
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+1:M 13 Mar 2021 20:28:17.240 # Server initialized
+1:M 13 Mar 2021 20:28:17.241 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+1:M 13 Mar 2021 20:28:17.243 * DB loaded from append only file: 0.002 seconds
+1:M 13 Mar 2021 20:28:17.243 * Ready to accept connections
+1:signal-handler (1615667314) Received SIGTERM scheduling shutdown...
+1:M 13 Mar 2021 20:28:34.894 # User requested shutdown...
+1:M 13 Mar 2021 20:28:34.894 * Calling fsync() on the AOF file.
+1:M 13 Mar 2021 20:28:34.895 * Saving the final RDB snapshot before exiting.
+1:M 13 Mar 2021 20:28:34.902 * DB saved on disk
+1:M 13 Mar 2021 20:28:34.902 * Removing the pid file.
+1:M 13 Mar 2021 20:28:34.902 # Redis is now ready to exit, bye bye...
+1:C 13 Mar 2021 20:30:41.864 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 13 Mar 2021 20:30:41.864 # Redis version=6.0.9, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 13 Mar 2021 20:30:41.864 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 6.0.9 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 1
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+1:M 13 Mar 2021 20:30:41.866 # Server initialized
+1:M 13 Mar 2021 20:30:41.866 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+1:M 13 Mar 2021 20:30:41.871 * DB loaded from append only file: 0.004 seconds
+1:M 13 Mar 2021 20:30:41.871 * Ready to accept connections
+1:signal-handler (1615667479) Received SIGTERM scheduling shutdown...
+1:M 13 Mar 2021 20:31:19.277 # User requested shutdown...
+1:M 13 Mar 2021 20:31:19.277 * Calling fsync() on the AOF file.
+1:M 13 Mar 2021 20:31:19.277 * Saving the final RDB snapshot before exiting.
+1:M 13 Mar 2021 20:31:19.281 * DB saved on disk
+1:M 13 Mar 2021 20:31:19.281 * Removing the pid file.
+1:M 13 Mar 2021 20:31:19.281 # Redis is now ready to exit, bye bye...
+1:C 13 Mar 2021 20:32:55.949 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 13 Mar 2021 20:32:55.949 # Redis version=6.0.9, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 13 Mar 2021 20:32:55.949 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 6.0.9 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 1
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+1:M 13 Mar 2021 20:32:55.951 # Server initialized
+1:M 13 Mar 2021 20:32:55.951 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+1:M 13 Mar 2021 20:32:55.957 * DB loaded from append only file: 0.006 seconds
+1:M 13 Mar 2021 20:32:55.957 * Ready to accept connections
+1:signal-handler (1615667587) Received SIGTERM scheduling shutdown...
+1:M 13 Mar 2021 20:33:07.690 # User requested shutdown...
+1:M 13 Mar 2021 20:33:07.690 * Calling fsync() on the AOF file.
+1:M 13 Mar 2021 20:33:07.691 * Saving the final RDB snapshot before exiting.
+1:M 13 Mar 2021 20:33:07.694 * DB saved on disk
+1:M 13 Mar 2021 20:33:07.694 * Removing the pid file.
+1:M 13 Mar 2021 20:33:07.695 # Redis is now ready to exit, bye bye...
+1:C 13 Mar 2021 20:37:00.541 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 13 Mar 2021 20:37:00.541 # Redis version=6.0.9, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 13 Mar 2021 20:37:00.541 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 6.0.9 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 1
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+1:M 13 Mar 2021 20:37:00.543 # Server initialized
+1:M 13 Mar 2021 20:37:00.543 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+1:M 13 Mar 2021 20:37:00.548 * DB loaded from append only file: 0.005 seconds
+1:M 13 Mar 2021 20:37:00.548 * Ready to accept connections
+1:signal-handler (1615667887) Received SIGTERM scheduling shutdown...
+1:M 13 Mar 2021 20:38:07.753 # User requested shutdown...
+1:M 13 Mar 2021 20:38:07.753 * Calling fsync() on the AOF file.
+1:M 13 Mar 2021 20:38:07.753 * Saving the final RDB snapshot before exiting.
+1:M 13 Mar 2021 20:38:07.758 * DB saved on disk
+1:M 13 Mar 2021 20:38:07.758 * Removing the pid file.
+1:M 13 Mar 2021 20:38:07.758 # Redis is now ready to exit, bye bye...
+1:C 13 Mar 2021 20:50:57.228 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 13 Mar 2021 20:50:57.229 # Redis version=6.0.9, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 13 Mar 2021 20:50:57.229 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 6.0.9 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 1
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+1:M 13 Mar 2021 20:50:57.230 # Server initialized
+1:M 13 Mar 2021 20:50:57.230 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+1:M 13 Mar 2021 20:50:57.237 * DB loaded from append only file: 0.007 seconds
+1:M 13 Mar 2021 20:50:57.237 * Ready to accept connections
+1:signal-handler (1615668675) Received SIGTERM scheduling shutdown...
+1:M 13 Mar 2021 20:51:15.787 # User requested shutdown...
+1:M 13 Mar 2021 20:51:15.787 * Calling fsync() on the AOF file.
+1:M 13 Mar 2021 20:51:15.787 * Saving the final RDB snapshot before exiting.
+1:M 13 Mar 2021 20:51:15.799 * DB saved on disk
+1:M 13 Mar 2021 20:51:15.799 * Removing the pid file.
+1:M 13 Mar 2021 20:51:15.799 # Redis is now ready to exit, bye bye...
+1:C 13 Mar 2021 20:54:30.370 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 13 Mar 2021 20:54:30.370 # Redis version=6.0.9, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 13 Mar 2021 20:54:30.370 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 6.0.9 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 1
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+1:M 13 Mar 2021 20:54:30.371 # Server initialized
+1:M 13 Mar 2021 20:54:30.372 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+1:M 13 Mar 2021 20:54:30.382 * DB loaded from append only file: 0.010 seconds
+1:M 13 Mar 2021 20:54:30.382 * Ready to accept connections
+1:signal-handler (1615668909) Received SIGTERM scheduling shutdown...
+1:M 13 Mar 2021 20:55:09.297 # User requested shutdown...
+1:M 13 Mar 2021 20:55:09.297 * Calling fsync() on the AOF file.
+1:M 13 Mar 2021 20:55:09.297 * Saving the final RDB snapshot before exiting.
+1:M 13 Mar 2021 20:55:09.306 * DB saved on disk
+1:M 13 Mar 2021 20:55:09.306 * Removing the pid file.
+1:M 13 Mar 2021 20:55:09.306 # Redis is now ready to exit, bye bye...
+1:C 13 Mar 2021 21:00:57.678 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 13 Mar 2021 21:00:57.678 # Redis version=6.0.9, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 13 Mar 2021 21:00:57.678 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 6.0.9 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 1
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+1:M 13 Mar 2021 21:00:57.679 # Server initialized
+1:M 13 Mar 2021 21:00:57.680 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+1:M 13 Mar 2021 21:00:57.692 * DB loaded from append only file: 0.012 seconds
+1:M 13 Mar 2021 21:00:57.692 * Ready to accept connections
+1:signal-handler (1615669303) Received SIGTERM scheduling shutdown...
+1:M 13 Mar 2021 21:01:43.525 # User requested shutdown...
+1:M 13 Mar 2021 21:01:43.525 * Calling fsync() on the AOF file.
+1:M 13 Mar 2021 21:01:43.526 * Saving the final RDB snapshot before exiting.
+1:M 13 Mar 2021 21:01:43.535 * DB saved on disk
+1:M 13 Mar 2021 21:01:43.535 * Removing the pid file.
+1:M 13 Mar 2021 21:01:43.535 # Redis is now ready to exit, bye bye...
+1:C 13 Mar 2021 21:07:38.481 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 13 Mar 2021 21:07:38.481 # Redis version=6.0.9, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 13 Mar 2021 21:07:38.481 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 6.0.9 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 1
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+1:M 13 Mar 2021 21:07:38.483 # Server initialized
+1:M 13 Mar 2021 21:07:38.483 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+1:M 13 Mar 2021 21:07:38.496 * DB loaded from append only file: 0.013 seconds
+1:M 13 Mar 2021 21:07:38.496 * Ready to accept connections
+1:signal-handler (1615669853) Received SIGTERM scheduling shutdown...
+1:M 13 Mar 2021 21:10:53.652 # User requested shutdown...
+1:M 13 Mar 2021 21:10:53.652 * Calling fsync() on the AOF file.
+1:M 13 Mar 2021 21:10:53.652 * Saving the final RDB snapshot before exiting.
+1:M 13 Mar 2021 21:10:53.664 * DB saved on disk
+1:M 13 Mar 2021 21:10:53.665 * Removing the pid file.
+1:M 13 Mar 2021 21:10:53.665 # Redis is now ready to exit, bye bye...
+1:C 13 Mar 2021 21:24:34.733 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 13 Mar 2021 21:24:34.734 # Redis version=6.0.9, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 13 Mar 2021 21:24:34.734 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 6.0.9 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 1
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+1:M 13 Mar 2021 21:24:34.735 # Server initialized
+1:M 13 Mar 2021 21:24:34.735 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+1:M 13 Mar 2021 21:24:34.755 * DB loaded from append only file: 0.020 seconds
+1:M 13 Mar 2021 21:24:34.755 * Ready to accept connections
+1:signal-handler (1615670871) Received SIGTERM scheduling shutdown...
+1:M 13 Mar 2021 21:27:52.025 # User requested shutdown...
+1:M 13 Mar 2021 21:27:52.025 * Calling fsync() on the AOF file.
+1:M 13 Mar 2021 21:27:52.026 * Saving the final RDB snapshot before exiting.
+1:M 13 Mar 2021 21:27:52.036 * DB saved on disk
+1:M 13 Mar 2021 21:27:52.036 * Removing the pid file.
+1:M 13 Mar 2021 21:27:52.036 # Redis is now ready to exit, bye bye...
+1:C 13 Mar 2021 21:35:01.226 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 13 Mar 2021 21:35:01.226 # Redis version=6.0.9, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 13 Mar 2021 21:35:01.226 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 6.0.9 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 1
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+1:M 13 Mar 2021 21:35:01.228 # Server initialized
+1:M 13 Mar 2021 21:35:01.228 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+1:M 13 Mar 2021 21:35:01.248 * DB loaded from append only file: 0.020 seconds
+1:M 13 Mar 2021 21:35:01.248 * Ready to accept connections
+1:signal-handler (1615671570) Received SIGTERM scheduling shutdown...
+1:M 13 Mar 2021 21:39:30.948 # User requested shutdown...
+1:M 13 Mar 2021 21:39:30.948 * Calling fsync() on the AOF file.
+1:M 13 Mar 2021 21:39:30.948 * Saving the final RDB snapshot before exiting.
+1:M 13 Mar 2021 21:39:30.957 * DB saved on disk
+1:M 13 Mar 2021 21:39:30.957 * Removing the pid file.
+1:M 13 Mar 2021 21:39:30.957 # Redis is now ready to exit, bye bye...
+1:C 13 Mar 2021 21:40:22.807 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 13 Mar 2021 21:40:22.807 # Redis version=6.0.9, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 13 Mar 2021 21:40:22.807 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 6.0.9 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 1
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+1:M 13 Mar 2021 21:40:22.809 # Server initialized
+1:M 13 Mar 2021 21:40:22.809 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+1:M 13 Mar 2021 21:40:22.832 * DB loaded from append only file: 0.023 seconds
+1:M 13 Mar 2021 21:40:22.832 * Ready to accept connections
+1:signal-handler (1615671735) Received SIGTERM scheduling shutdown...
+1:M 13 Mar 2021 21:42:15.672 # User requested shutdown...
+1:M 13 Mar 2021 21:42:15.672 * Calling fsync() on the AOF file.
+1:M 13 Mar 2021 21:42:15.672 * Saving the final RDB snapshot before exiting.
+1:M 13 Mar 2021 21:42:15.679 * DB saved on disk
+1:M 13 Mar 2021 21:42:15.679 * Removing the pid file.
+1:M 13 Mar 2021 21:42:15.679 # Redis is now ready to exit, bye bye...
+1:C 13 Mar 2021 21:44:24.173 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 13 Mar 2021 21:44:24.173 # Redis version=6.0.9, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 13 Mar 2021 21:44:24.173 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 6.0.9 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 1
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+1:M 13 Mar 2021 21:44:24.175 # Server initialized
+1:M 13 Mar 2021 21:44:24.175 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+1:M 13 Mar 2021 21:44:24.198 * DB loaded from append only file: 0.023 seconds
+1:M 13 Mar 2021 21:44:24.198 * Ready to accept connections
+1:signal-handler (1615672087) Received SIGTERM scheduling shutdown...
+1:M 13 Mar 2021 21:48:07.263 # User requested shutdown...
+1:M 13 Mar 2021 21:48:07.263 * Calling fsync() on the AOF file.
+1:M 13 Mar 2021 21:48:07.263 * Saving the final RDB snapshot before exiting.
+1:M 13 Mar 2021 21:48:07.271 * DB saved on disk
+1:M 13 Mar 2021 21:48:07.271 * Removing the pid file.
+1:M 13 Mar 2021 21:48:07.271 # Redis is now ready to exit, bye bye...
+1:C 13 Mar 2021 21:48:54.621 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 13 Mar 2021 21:48:54.621 # Redis version=6.0.9, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 13 Mar 2021 21:48:54.621 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 6.0.9 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 1
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+1:M 13 Mar 2021 21:48:54.623 # Server initialized
+1:M 13 Mar 2021 21:48:54.623 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+1:M 13 Mar 2021 21:48:54.646 * DB loaded from append only file: 0.023 seconds
+1:M 13 Mar 2021 21:48:54.646 * Ready to accept connections
+1:signal-handler (1615672161) Received SIGTERM scheduling shutdown...
+1:M 13 Mar 2021 21:49:21.724 # User requested shutdown...
+1:M 13 Mar 2021 21:49:21.724 * Calling fsync() on the AOF file.
+1:M 13 Mar 2021 21:49:21.724 * Saving the final RDB snapshot before exiting.
+1:M 13 Mar 2021 21:49:21.735 * DB saved on disk
+1:M 13 Mar 2021 21:49:21.735 * Removing the pid file.
+1:M 13 Mar 2021 21:49:21.735 # Redis is now ready to exit, bye bye...
+1:C 13 Mar 2021 21:52:18.948 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 13 Mar 2021 21:52:18.948 # Redis version=6.0.9, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 13 Mar 2021 21:52:18.948 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 6.0.9 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 1
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+1:M 13 Mar 2021 21:52:18.949 # Server initialized
+1:M 13 Mar 2021 21:52:18.949 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+1:M 13 Mar 2021 21:52:18.971 * DB loaded from append only file: 0.021 seconds
+1:M 13 Mar 2021 21:52:18.971 * Ready to accept connections
+1:signal-handler (1615672357) Received SIGTERM scheduling shutdown...
+1:M 13 Mar 2021 21:52:37.525 # User requested shutdown...
+1:M 13 Mar 2021 21:52:37.525 * Calling fsync() on the AOF file.
+1:M 13 Mar 2021 21:52:37.526 * Saving the final RDB snapshot before exiting.
+1:M 13 Mar 2021 21:52:37.538 * DB saved on disk
+1:M 13 Mar 2021 21:52:37.538 * Removing the pid file.
+1:M 13 Mar 2021 21:52:37.538 # Redis is now ready to exit, bye bye...
+1:C 13 Mar 2021 21:54:12.591 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 13 Mar 2021 21:54:12.591 # Redis version=6.0.9, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 13 Mar 2021 21:54:12.591 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 6.0.9 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 1
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+1:M 13 Mar 2021 21:54:12.592 # Server initialized
+1:M 13 Mar 2021 21:54:12.592 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+1:M 13 Mar 2021 21:54:12.634 * DB loaded from append only file: 0.042 seconds
+1:M 13 Mar 2021 21:54:12.634 * Ready to accept connections
+1:signal-handler (1615672458) Received SIGTERM scheduling shutdown...
+1:M 13 Mar 2021 21:54:18.652 # User requested shutdown...
+1:M 13 Mar 2021 21:54:18.652 * Calling fsync() on the AOF file.
+1:M 13 Mar 2021 21:54:18.652 * Saving the final RDB snapshot before exiting.
+1:M 13 Mar 2021 21:54:18.663 * DB saved on disk
+1:M 13 Mar 2021 21:54:18.663 * Removing the pid file.
+1:M 13 Mar 2021 21:54:18.663 # Redis is now ready to exit, bye bye...
+1:C 13 Mar 2021 21:55:09.571 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 13 Mar 2021 21:55:09.571 # Redis version=6.0.9, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 13 Mar 2021 21:55:09.571 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 6.0.9 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 1
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+1:M 13 Mar 2021 21:55:09.572 # Server initialized
+1:M 13 Mar 2021 21:55:09.572 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+1:M 13 Mar 2021 21:55:09.593 * DB loaded from append only file: 0.020 seconds
+1:M 13 Mar 2021 21:55:09.593 * Ready to accept connections
+1:signal-handler (1615672525) Received SIGTERM scheduling shutdown...
+1:M 13 Mar 2021 21:55:25.534 # User requested shutdown...
+1:M 13 Mar 2021 21:55:25.534 * Calling fsync() on the AOF file.
+1:M 13 Mar 2021 21:55:25.535 * Saving the final RDB snapshot before exiting.
+1:M 13 Mar 2021 21:55:25.546 * DB saved on disk
+1:M 13 Mar 2021 21:55:25.546 * Removing the pid file.
+1:M 13 Mar 2021 21:55:25.546 # Redis is now ready to exit, bye bye...
+1:C 13 Mar 2021 21:58:06.398 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 13 Mar 2021 21:58:06.398 # Redis version=6.0.9, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 13 Mar 2021 21:58:06.398 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 6.0.9 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 1
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+1:M 13 Mar 2021 21:58:06.399 # Server initialized
+1:M 13 Mar 2021 21:58:06.399 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+1:M 13 Mar 2021 21:58:06.421 * DB loaded from append only file: 0.021 seconds
+1:M 13 Mar 2021 21:58:06.421 * Ready to accept connections
+1:signal-handler (1615672714) Received SIGTERM scheduling shutdown...
+1:M 13 Mar 2021 21:58:34.303 # User requested shutdown...
+1:M 13 Mar 2021 21:58:34.303 * Calling fsync() on the AOF file.
+1:M 13 Mar 2021 21:58:34.303 * Saving the final RDB snapshot before exiting.
+1:M 13 Mar 2021 21:58:34.314 * DB saved on disk
+1:M 13 Mar 2021 21:58:34.314 * Removing the pid file.
+1:M 13 Mar 2021 21:58:34.314 # Redis is now ready to exit, bye bye...
+1:C 13 Mar 2021 22:00:38.540 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 13 Mar 2021 22:00:38.540 # Redis version=6.0.9, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 13 Mar 2021 22:00:38.540 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 6.0.9 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 1
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+1:M 13 Mar 2021 22:00:38.542 # Server initialized
+1:M 13 Mar 2021 22:00:38.542 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+1:M 13 Mar 2021 22:00:38.566 * DB loaded from append only file: 0.024 seconds
+1:M 13 Mar 2021 22:00:38.566 * Ready to accept connections
+1:signal-handler (1615672857) Received SIGTERM scheduling shutdown...
+1:M 13 Mar 2021 22:00:57.419 # User requested shutdown...
+1:M 13 Mar 2021 22:00:57.419 * Calling fsync() on the AOF file.
+1:M 13 Mar 2021 22:00:57.419 * Saving the final RDB snapshot before exiting.
+1:M 13 Mar 2021 22:00:57.430 * DB saved on disk
+1:M 13 Mar 2021 22:00:57.430 * Removing the pid file.
+1:M 13 Mar 2021 22:00:57.430 # Redis is now ready to exit, bye bye...
+1:C 13 Mar 2021 22:03:24.942 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 13 Mar 2021 22:03:24.942 # Redis version=6.0.9, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 13 Mar 2021 22:03:24.942 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 6.0.9 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 1
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+1:M 13 Mar 2021 22:03:24.944 # Server initialized
+1:M 13 Mar 2021 22:03:24.944 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+1:M 13 Mar 2021 22:03:24.965 * DB loaded from append only file: 0.021 seconds
+1:M 13 Mar 2021 22:03:24.965 * Ready to accept connections
+1:signal-handler (1615673020) Received SIGTERM scheduling shutdown...
+1:M 13 Mar 2021 22:03:41.005 # User requested shutdown...
+1:M 13 Mar 2021 22:03:41.005 * Calling fsync() on the AOF file.
+1:M 13 Mar 2021 22:03:41.006 * Saving the final RDB snapshot before exiting.
+1:M 13 Mar 2021 22:03:41.016 * DB saved on disk
+1:M 13 Mar 2021 22:03:41.016 * Removing the pid file.
+1:M 13 Mar 2021 22:03:41.016 # Redis is now ready to exit, bye bye...
+1:C 13 Mar 2021 22:06:22.632 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 13 Mar 2021 22:06:22.632 # Redis version=6.0.9, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 13 Mar 2021 22:06:22.632 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 6.0.9 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 1
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+1:M 13 Mar 2021 22:06:22.634 # Server initialized
+1:M 13 Mar 2021 22:06:22.634 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+1:M 13 Mar 2021 22:06:22.657 * DB loaded from append only file: 0.023 seconds
+1:M 13 Mar 2021 22:06:22.657 * Ready to accept connections
+1:signal-handler (1615673197) Received SIGTERM scheduling shutdown...
+1:M 13 Mar 2021 22:06:37.700 # User requested shutdown...
+1:M 13 Mar 2021 22:06:37.700 * Calling fsync() on the AOF file.
+1:M 13 Mar 2021 22:06:37.701 * Saving the final RDB snapshot before exiting.
+1:M 13 Mar 2021 22:06:37.712 * DB saved on disk
+1:M 13 Mar 2021 22:06:37.712 * Removing the pid file.
+1:M 13 Mar 2021 22:06:37.712 # Redis is now ready to exit, bye bye...
+1:C 13 Mar 2021 22:16:59.621 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 13 Mar 2021 22:16:59.621 # Redis version=6.0.9, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 13 Mar 2021 22:16:59.621 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 6.0.9 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 1
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+1:M 13 Mar 2021 22:16:59.623 # Server initialized
+1:M 13 Mar 2021 22:16:59.623 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+1:M 13 Mar 2021 22:16:59.644 * DB loaded from append only file: 0.021 seconds
+1:M 13 Mar 2021 22:16:59.644 * Ready to accept connections
+1:signal-handler (1615673826) Received SIGTERM scheduling shutdown...
+1:M 13 Mar 2021 22:17:06.059 # User requested shutdown...
+1:M 13 Mar 2021 22:17:06.059 * Calling fsync() on the AOF file.
+1:M 13 Mar 2021 22:17:06.060 * Saving the final RDB snapshot before exiting.
+1:M 13 Mar 2021 22:17:06.071 * DB saved on disk
+1:M 13 Mar 2021 22:17:06.071 * Removing the pid file.
+1:M 13 Mar 2021 22:17:06.071 # Redis is now ready to exit, bye bye...
+1:C 13 Mar 2021 22:18:02.482 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 13 Mar 2021 22:18:02.482 # Redis version=6.0.9, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 13 Mar 2021 22:18:02.482 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 6.0.9 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 1
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+1:M 13 Mar 2021 22:18:02.484 # Server initialized
+1:M 13 Mar 2021 22:18:02.484 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+1:M 13 Mar 2021 22:18:02.505 * DB loaded from append only file: 0.021 seconds
+1:M 13 Mar 2021 22:18:02.505 * Ready to accept connections
+1:signal-handler (1615673927) Received SIGTERM scheduling shutdown...
+1:M 13 Mar 2021 22:18:47.441 # User requested shutdown...
+1:M 13 Mar 2021 22:18:47.441 * Calling fsync() on the AOF file.
+1:M 13 Mar 2021 22:18:47.441 * Saving the final RDB snapshot before exiting.
+1:M 13 Mar 2021 22:18:47.452 * DB saved on disk
+1:M 13 Mar 2021 22:18:47.452 * Removing the pid file.
+1:M 13 Mar 2021 22:18:47.452 # Redis is now ready to exit, bye bye...
+1:C 13 Mar 2021 22:21:49.103 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 13 Mar 2021 22:21:49.103 # Redis version=6.0.9, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 13 Mar 2021 22:21:49.103 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 6.0.9 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 1
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+1:M 13 Mar 2021 22:21:49.105 # Server initialized
+1:M 13 Mar 2021 22:21:49.105 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+1:M 13 Mar 2021 22:21:49.126 * DB loaded from append only file: 0.021 seconds
+1:M 13 Mar 2021 22:21:49.126 * Ready to accept connections
+1:signal-handler (1615674144) Received SIGTERM scheduling shutdown...
+1:M 13 Mar 2021 22:22:25.027 # User requested shutdown...
+1:M 13 Mar 2021 22:22:25.027 * Calling fsync() on the AOF file.
+1:M 13 Mar 2021 22:22:25.028 * Saving the final RDB snapshot before exiting.
+1:M 13 Mar 2021 22:22:25.033 * DB saved on disk
+1:M 13 Mar 2021 22:22:25.033 * Removing the pid file.
+1:M 13 Mar 2021 22:22:25.033 # Redis is now ready to exit, bye bye...
+1:C 13 Mar 2021 22:23:19.003 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 13 Mar 2021 22:23:19.003 # Redis version=6.0.9, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 13 Mar 2021 22:23:19.003 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 6.0.9 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 1
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+1:M 13 Mar 2021 22:23:19.005 # Server initialized
+1:M 13 Mar 2021 22:23:19.005 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+1:M 13 Mar 2021 22:23:19.026 * DB loaded from append only file: 0.022 seconds
+1:M 13 Mar 2021 22:23:19.026 * Ready to accept connections
+1:signal-handler (1615674235) Received SIGTERM scheduling shutdown...
+1:M 13 Mar 2021 22:23:55.036 # User requested shutdown...
+1:M 13 Mar 2021 22:23:55.036 * Calling fsync() on the AOF file.
+1:M 13 Mar 2021 22:23:55.037 * Saving the final RDB snapshot before exiting.
+1:M 13 Mar 2021 22:23:55.048 * DB saved on disk
+1:M 13 Mar 2021 22:23:55.048 * Removing the pid file.
+1:M 13 Mar 2021 22:23:55.048 # Redis is now ready to exit, bye bye...
+1:C 13 Mar 2021 22:26:47.317 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 13 Mar 2021 22:26:47.317 # Redis version=6.0.9, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 13 Mar 2021 22:26:47.317 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 6.0.9 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 1
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+1:M 13 Mar 2021 22:26:47.319 # Server initialized
+1:M 13 Mar 2021 22:26:47.319 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+1:M 13 Mar 2021 22:26:47.341 * DB loaded from append only file: 0.022 seconds
+1:M 13 Mar 2021 22:26:47.341 * Ready to accept connections
+1:signal-handler (1615674456) Received SIGTERM scheduling shutdown...
+1:M 13 Mar 2021 22:27:36.293 # User requested shutdown...
+1:M 13 Mar 2021 22:27:36.293 * Calling fsync() on the AOF file.
+1:M 13 Mar 2021 22:27:36.294 * Saving the final RDB snapshot before exiting.
+1:M 13 Mar 2021 22:27:36.303 * DB saved on disk
+1:M 13 Mar 2021 22:27:36.303 * Removing the pid file.
+1:M 13 Mar 2021 22:27:36.303 # Redis is now ready to exit, bye bye...
+1:C 13 Mar 2021 22:32:55.096 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 13 Mar 2021 22:32:55.096 # Redis version=6.0.9, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 13 Mar 2021 22:32:55.096 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 6.0.9 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 1
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+1:M 13 Mar 2021 22:32:55.097 # Server initialized
+1:M 13 Mar 2021 22:32:55.097 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+1:M 13 Mar 2021 22:32:55.120 * DB loaded from append only file: 0.022 seconds
+1:M 13 Mar 2021 22:32:55.120 * Ready to accept connections
+1:signal-handler (1615674836) Received SIGTERM scheduling shutdown...
+1:M 13 Mar 2021 22:33:56.201 # User requested shutdown...
+1:M 13 Mar 2021 22:33:56.201 * Calling fsync() on the AOF file.
+1:M 13 Mar 2021 22:33:56.201 * Saving the final RDB snapshot before exiting.
+1:M 13 Mar 2021 22:33:56.211 * DB saved on disk
+1:M 13 Mar 2021 22:33:56.211 * Removing the pid file.
+1:M 13 Mar 2021 22:33:56.211 # Redis is now ready to exit, bye bye...
+1:C 13 Mar 2021 22:41:35.166 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 13 Mar 2021 22:41:35.166 # Redis version=6.0.9, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 13 Mar 2021 22:41:35.166 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 6.0.9 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 1
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+1:M 13 Mar 2021 22:41:35.168 # Server initialized
+1:M 13 Mar 2021 22:41:35.168 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+1:M 13 Mar 2021 22:41:35.193 * DB loaded from append only file: 0.025 seconds
+1:M 13 Mar 2021 22:41:35.193 * Ready to accept connections
+1:signal-handler (1615675321) Received SIGTERM scheduling shutdown...
+1:M 13 Mar 2021 22:42:01.871 # User requested shutdown...
+1:M 13 Mar 2021 22:42:01.871 * Calling fsync() on the AOF file.
+1:M 13 Mar 2021 22:42:01.872 * Saving the final RDB snapshot before exiting.
+1:M 13 Mar 2021 22:42:01.883 * DB saved on disk
+1:M 13 Mar 2021 22:42:01.883 * Removing the pid file.
+1:M 13 Mar 2021 22:42:01.883 # Redis is now ready to exit, bye bye...
+1:C 13 Mar 2021 22:45:51.873 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 13 Mar 2021 22:45:51.873 # Redis version=6.0.9, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 13 Mar 2021 22:45:51.873 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 6.0.9 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 1
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+1:M 13 Mar 2021 22:45:51.874 # Server initialized
+1:M 13 Mar 2021 22:45:51.875 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+1:M 13 Mar 2021 22:45:51.902 * DB loaded from append only file: 0.027 seconds
+1:M 13 Mar 2021 22:45:51.902 * Ready to accept connections
+1:signal-handler (1615675622) Received SIGTERM scheduling shutdown...
+1:M 13 Mar 2021 22:47:02.613 # User requested shutdown...
+1:M 13 Mar 2021 22:47:02.613 * Calling fsync() on the AOF file.
+1:M 13 Mar 2021 22:47:02.616 * Saving the final RDB snapshot before exiting.
+1:M 13 Mar 2021 22:47:02.629 * DB saved on disk
+1:M 13 Mar 2021 22:47:02.629 * Removing the pid file.
+1:M 13 Mar 2021 22:47:02.629 # Redis is now ready to exit, bye bye...
+1:C 13 Mar 2021 22:49:56.421 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 13 Mar 2021 22:49:56.421 # Redis version=6.0.9, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 13 Mar 2021 22:49:56.421 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 6.0.9 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 1
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+1:M 13 Mar 2021 22:49:56.423 # Server initialized
+1:M 13 Mar 2021 22:49:56.423 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+1:M 13 Mar 2021 22:49:56.456 * DB loaded from append only file: 0.033 seconds
+1:M 13 Mar 2021 22:49:56.456 * Ready to accept connections
+1:signal-handler (1615675865) Received SIGTERM scheduling shutdown...
+1:M 13 Mar 2021 22:51:05.865 # User requested shutdown...
+1:M 13 Mar 2021 22:51:05.865 * Calling fsync() on the AOF file.
+1:M 13 Mar 2021 22:51:05.865 * Saving the final RDB snapshot before exiting.
+1:M 13 Mar 2021 22:51:05.879 * DB saved on disk
+1:M 13 Mar 2021 22:51:05.879 * Removing the pid file.
+1:M 13 Mar 2021 22:51:05.879 # Redis is now ready to exit, bye bye...
+1:C 13 Mar 2021 22:54:45.372 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 13 Mar 2021 22:54:45.372 # Redis version=6.0.9, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 13 Mar 2021 22:54:45.372 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 6.0.9 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 1
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+1:M 13 Mar 2021 22:54:45.374 # Server initialized
+1:M 13 Mar 2021 22:54:45.374 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+1:M 13 Mar 2021 22:54:45.410 * DB loaded from append only file: 0.036 seconds
+1:M 13 Mar 2021 22:54:45.410 * Ready to accept connections
+1:signal-handler (1615676091) Received SIGTERM scheduling shutdown...
+1:M 13 Mar 2021 22:54:51.725 # User requested shutdown...
+1:M 13 Mar 2021 22:54:51.725 * Calling fsync() on the AOF file.
+1:M 13 Mar 2021 22:54:51.725 * Saving the final RDB snapshot before exiting.
+1:M 13 Mar 2021 22:54:51.738 * DB saved on disk
+1:M 13 Mar 2021 22:54:51.738 * Removing the pid file.
+1:M 13 Mar 2021 22:54:51.738 # Redis is now ready to exit, bye bye...
+1:C 13 Mar 2021 22:55:50.759 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+1:C 13 Mar 2021 22:55:50.760 # Redis version=6.0.9, bits=64, commit=00000000, modified=0, pid=1, just started
+1:C 13 Mar 2021 22:55:50.760 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 6.0.9 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 6379
+ |    `-._   `._    /     _.-'    |     PID: 1
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+1:M 13 Mar 2021 22:55:50.762 # Server initialized
+1:M 13 Mar 2021 22:55:50.762 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+1:M 13 Mar 2021 22:55:50.808 * DB loaded from append only file: 0.045 seconds
+1:M 13 Mar 2021 22:55:50.808 * Ready to accept connections
+1:signal-handler (1615676221) Received SIGTERM scheduling shutdown...
+1:M 13 Mar 2021 22:57:01.635 # User requested shutdown...
+1:M 13 Mar 2021 22:57:01.635 * Calling fsync() on the AOF file.
+1:M 13 Mar 2021 22:57:01.635 * Saving the final RDB snapshot before exiting.
+1:M 13 Mar 2021 22:57:01.649 * DB saved on disk
+1:M 13 Mar 2021 22:57:01.649 * Removing the pid file.
+1:M 13 Mar 2021 22:57:01.649 # Redis is now ready to exit, bye bye...
