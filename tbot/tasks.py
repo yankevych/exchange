@@ -46,10 +46,10 @@ async def send(r, list_, text):
     """send monitoring to user"""
     for id_ in list_:
         try:
-            message_id = r.get(f'{id_}')    # if TRUE > it not the first msg and I can EDIT it
+            message_id = r.get(f'{id_}')    # if TRUE -> it's not the first msg and I can EDIT it
             if message_id:
                 message = await bot.edit_message_text(text=text, chat_id=id_, message_id=message_id.decode("utf-8"))
-            else:   # if FALSE > it's the first message
+            else:   # if FALSE -> it's the first message
                 message = await bot.send_message(id_, text=text)
             r.set(f'{id_}', f'{message.message_id}')    # save message ID to db and then can edit it
         except ChatIdIsEmpty:

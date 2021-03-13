@@ -11,8 +11,6 @@ API_TOKEN = os.getenv('TOKEN')
 bot = Bot(token=API_TOKEN, parse_mode='HTML')
 dp = Dispatcher(bot)
 
-
-# r = Redis(host='localhost', port=6379, db=0)    # local setting
 r = Redis(host='redis', username='default', password='redis_pass_', port=6379, db=0)
 
 
