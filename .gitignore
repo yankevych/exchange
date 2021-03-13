@@ -4,6 +4,7 @@ env/
 e_env/
 setenv.sh
 .idea
+dump.rdb
 
 
 
